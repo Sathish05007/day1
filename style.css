@@ -1,0 +1,15 @@
+.container{
+    border: 2px gray solid;
+    background-color: whitesmoke;
+    height: 100vh;
+    width: 50%;
+    margin: auto;
+}
+.box h1{
+    color: aqua;
+}
+.box p{
+    color: black;
+}
+
+
